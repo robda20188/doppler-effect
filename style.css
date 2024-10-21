@@ -45,3 +45,15 @@ input{
     font-size: 18px;
 }
 
+#github{
+	position: absolute;
+	bottom: 25px;
+	right: 25px;
+	width: 30px;
+	height: 30px;
+}
+
+#github img{
+	width: 100%;
+	height: 100%;
+}
